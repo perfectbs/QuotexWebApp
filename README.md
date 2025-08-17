@@ -1,0 +1,2 @@
+# QuotexWebApp
+trading
